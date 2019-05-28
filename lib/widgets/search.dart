@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_property_finder/screens/settings_screen.dart';
+import 'package:propertyfinder/screens/settings_screen.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
 
 class SearchWidget extends StatelessWidget {

@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:propertyfinder/api/property_scoped_model.dart';
+import 'package:propertyfinder/api/properties_scoped_model.dart';
 import 'package:propertyfinder/screens/detail_screen.dart';
-import 'package:propertyfinder/ui_widgets/property_item.dart';
-import 'package:propertyfinder/ui_widgets/search.dart';
+import 'package:propertyfinder/widgets/property_item.dart';
+import 'package:propertyfinder/widgets/search.dart';
 import 'package:scoped_model/scoped_model.dart';
 
 class SearchScreen extends StatefulWidget {

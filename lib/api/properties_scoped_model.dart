@@ -1,8 +1,8 @@
 
 import 'dart:convert';
 import 'package:flutter/material.dart';
-import 'package:propertyfinder/models/nestoria.dart';
-import 'package:propertyfinder/models/serializers.dart';
+import 'package:propertyfinder/model/property.dart';
+import 'package:propertyfinder/model/serializers.dart';
 import 'package:scoped_model/scoped_model.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 

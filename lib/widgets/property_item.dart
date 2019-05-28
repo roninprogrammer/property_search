@@ -1,7 +1,7 @@
-import 'package:flutter/material.dart';
-import 'package:propertyfinder/models/nestoria.dart';
-import 'package:propertyfinder/ui_widgets/text_icon.dart';
+import 'package:flutter/material.dart'; 
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
+import 'package:propertyfinder/model/property.dart';
+import 'package:propertyfinder/widgets/text_icon.dart';
 
 class PropertyItem extends StatelessWidget {
   final Property property;

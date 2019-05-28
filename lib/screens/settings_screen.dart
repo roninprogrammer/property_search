@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:propertyfinder/api/property_scoped_model.dart';
-import 'package:propertyfinder/ui_widgets/dropdown_button.dart';
+import 'package:propertyfinder/api/properties_scoped_model.dart';
+import 'package:propertyfinder/widgets/dropdown_button.dart';
 import 'package:scoped_model/scoped_model.dart';
 
 class SettingsScreen extends StatelessWidget {
